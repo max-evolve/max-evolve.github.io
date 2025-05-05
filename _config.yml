@@ -62,6 +62,16 @@ author:
   avatar : "/assets/images/mayank-profile.jpg"
   bio    : "Passionate Product builder writing about technology, career growth and startups"
   links:
+    - label: "London, UK"
+      icon:
+  #    url: "https://twitter.com/"
+    
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://linkedin/mayankkhera.com/"
+
+  
+  
  #   - label: "Website"
  #     icon: "fas fa-fw fa-link"
  #     url: "https://"
