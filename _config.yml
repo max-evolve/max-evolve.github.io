@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: mayankkhera.com
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -60,13 +60,14 @@ plugins:
 author:
   name   : "Mayank Khera"
   avatar : "/assets/images/mayank-profile.jpg"
-  bio    : "Passionate Product builder writing about technology, career growth and startups"
+  bio    : "I am a product builder who enjoys writing about technology, career growth and startups"
   location: "London, UK"
+  linkedin: mayankkhera
   
-  links:   
-    - label: "Linkedin"
-      icon: "fa-linkedin"
-      url: "https://linkedin/mayankkhera.com/"
+ # links:   
+ #   - label: "Linkedin"
+ #     icon: "fab fa-linkedin"
+ #     url: "https://linkedin/mayankkhera.com/"
 
   
   
@@ -114,6 +115,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+.site-footer {display: none !important;}
+
+
+
 
 category_archive:
   type: liquid
