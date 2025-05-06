@@ -13,6 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+
+
 title: mayankkhera.com
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -35,6 +38,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -64,39 +68,9 @@ author:
   location: "London, UK"
   linkedin: mayankkhera
   
- # links:   
- #   - label: "Linkedin"
- #     icon: "fab fa-linkedin"
- #     url: "https://linkedin/mayankkhera.com/"
-
-  
-  
- #   - label: "Website"
- #     icon: "fas fa-fw fa-link"
- #     url: "https://"
- #   - label: "Twitter"
- #     icon: "fab fa-fw fa-twitter-square"
- #     url: "https://twitter.com/"
- #   - label: "GitHub"
- #     icon: "fab fa-fw fa-github"
- #     url: "https://github.com/"
- #   - label: "Instagram"
- #     icon: "fab fa-fw fa-instagram"
- #     url: "https://instagram.com/"
-
-footer:
-  links:
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #    url: "https://twitter.com/"
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
 
 defaults:
+  
   # _posts
   - scope:
       path: ""
@@ -108,6 +82,7 @@ defaults:
       comments: false
       share: false
       related: true
+  
   # _pages
   - scope:
       path: "_pages"
@@ -116,9 +91,21 @@ defaults:
       layout: single
       author_profile: true
 
+  # portfolio
+  - scope:
+      path: ""
+      type: resources
+    values:
+      author_profile: false
+        
+# collections
+collections:
+  resources:
+    output: true
+
+
 
 .site-footer {display: none !important;}
-
 
 category_archive:
   type: liquid
