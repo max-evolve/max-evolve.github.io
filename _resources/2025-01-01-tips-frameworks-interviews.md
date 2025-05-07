@@ -1,3 +1,7 @@
+---
+title: "Tips Frameworks Interviews"
+permalink: /tips-frameworks-interviews/
+---
 # Tips and frameworks for interviews
 
 1. **Passive and active checkins** - have a right mix.  Get this in every 2-3 mins but don't overdo. 
@@ -25,7 +29,7 @@
     - Let me know if that sounds ok, Mark?
 - Always give anecdotes from your life to backup certain claims. This also puts you in the user shoes first hand.
 - Try to create a personal connection with the interviewer by asking questions about themselves as well while they give an introduction or later post the interview
-- Don’t be dull! Be happy and keep it light.
+- Don't be dull! Be happy and keep it light.
 
 **Basic things to take care of and structure to follow for all type of PM questions:**
 
@@ -34,12 +38,12 @@
 3. Ask clarifications on the underlined keywords
 4. Create a high-level structure/tree based on the framework that you intend to use
 5. Go broad and then go deep
-6. Your details should showcase that you’re thinking of every possible scenario even though it might seem minor
+6. Your details should showcase that you're thinking of every possible scenario even though it might seem minor
 
 ### Relevant Reads:
 
 [The 5 best questions to ask at the end of an interview](https://www.fastcompany.com/90741747/the-5-best-questions-to-ask-at-the-end-of-an-interview)
 
-[How to Respond to “So, Tell Me About Yourself” in a Job Interview](https://hbr.org/2019/08/how-to-respond-to-so-tell-me-about-yourself-in-a-job-interview)
+[How to Respond to "So, Tell Me About Yourself" in a Job Interview](https://hbr.org/2019/08/how-to-respond-to-so-tell-me-about-yourself-in-a-job-interview)
 
 [https://embed.notionlytics.com/wt/ZXlKM2IzSnJjM0JoWTJWVWNtRmphMlZ5U1dRaU9pSlJkRVZLVHpFelpHVnZRbWh2U1hNMlZrbFRZaUlzSW5CaFoyVkpaQ0k2SWpZeE5XSmhZVFV4WldFMVlqUmtNRGRoTkRRME5qRTFOR1UwTW1Rek5qRTNJbjA9](https://embed.notionlytics.com/wt/ZXlKM2IzSnJjM0JoWTJWVWNtRmphMlZ5U1dRaU9pSlJkRVZLVHpFelpHVnZRbWh2U1hNMlZrbFRZaUlzSW5CaFoyVkpaQ0k2SWpZeE5XSmhZVFV4WldFMVlqUmtNRGRoTkRRME5qRTFOR1UwTW1Rek5qRTNJbjA9)

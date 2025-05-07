@@ -1,4 +1,7 @@
-# PM Starter Kit
+---
+title:  "PM starter Kit"
+permalink: /pm-starter-kit/
+---
 
 ## ⭐ Getting started into product
 

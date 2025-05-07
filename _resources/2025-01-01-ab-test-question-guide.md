@@ -1,4 +1,7 @@
-# A/B Test Question Guide
+---
+title: "AB Test Question Guide"
+permalink: /ab-test-question-guide/
+---
 
 # **How to Answer A/B Test Product Management Questions**
 

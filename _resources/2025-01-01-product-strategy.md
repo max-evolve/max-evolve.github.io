@@ -1,3 +1,8 @@
+---
+title: "Product Strategy"
+permalink: /product-strategy/
+---
+
 # Product Strategy
 
 Product Strategy questions can be categorised into 3 main buckets:
@@ -63,7 +68,7 @@ How would you launch a product meant for Uber drivers to find a restroom?
 Broad framework to answer such questions: 
 
 - Clarify
-- Mission / Business case / Goal: Mission of Uber and how this product ties to the company’s mission? What is the business case for it? What could be the goal of this product?
+- Mission / Business case / Goal: Mission of Uber and how this product ties to the company's mission? What is the business case for it? What could be the goal of this product?
 - Ecosystem / User segments / Geolocation
 - Product
 - Placement (Online store, Partners - resale, ISV) based on where to acquire customers from
@@ -91,7 +96,7 @@ Broad framework to answer such questions:
     2. Advertising: Different media types like newspapers, google news. 
     3. Public relations: financial and technical support for communities. This support promotes the technology business by creating a positive brand image.  
     4. Sponsorship: sponsorship for various events, such as social outreach programs.
-    5. Direct marketing: Google’s online advertising of its own products is a direct approach to reach customers. For instance, the company advertises its Google Ads service via Gmail, such that the advertisements are shown to users who have a history of searching for digital advertising solutions. Thus, the business directly promotes its products to individual customers based on personal usage data, such as device location and search history. In this case, the granularity and specificity of showing personalized or semi-personalized ads to online users can be considered as a form of direct marketing. 
+    5. Direct marketing: Google's online advertising of its own products is a direct approach to reach customers. For instance, the company advertises its Google Ads service via Gmail, such that the advertisements are shown to users who have a history of searching for digital advertising solutions. Thus, the business directly promotes its products to individual customers based on personal usage data, such as device location and search history. In this case, the granularity and specificity of showing personalized or semi-personalized ads to online users can be considered as a form of direct marketing. 
 4. Pricing and Pricing strategies  
     1. Freemium pricing: Gmail free for consumers but paid for business
     2. Market-oriented pricing: Pixel and cromecast
@@ -103,11 +108,11 @@ Broad framework to answer such questions:
 [https://www.tryexponent.com/blog/google-product-strategy-interview](https://www.tryexponent.com/blog/google-product-strategy-interview)
 
 - How would you monetize Facebook Messenger?
-- Imagine you’re a PM at a startup that works with big data from the NHL — what’s the first product you would ship?
+- Imagine you're a PM at a startup that works with big data from the NHL — what's the first product you would ship?
 - How would you sell live plants at Amazon?
 - If you were the CEO of Facebook, what are the top three things you would do?
 - How would you bootstrap a product that helps people find apartments?
-- Imagine you’re the CEO of Apple — what product would you eliminate from the lineup?
+- Imagine you're the CEO of Apple — what product would you eliminate from the lineup?
 - If you were a VC, would you be more bullish on AR or VR?
 - Why do you think Microsoft bought LinkedIn?
 - Facebook is expanding into travel to compete with AirBnB — should they build a standalone app or integrate new travel features in the core Facebook experience?

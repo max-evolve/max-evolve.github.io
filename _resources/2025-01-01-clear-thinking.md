@@ -1,4 +1,7 @@
-# Clear Thinking
+---
+title: "Clear Thinking"
+permalink: /clear-thinking/
+---
 
 Shane Parrish
 

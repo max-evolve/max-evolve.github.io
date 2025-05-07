@@ -1,3 +1,8 @@
+---
+title: "Mastering PM Interviews"
+permalink: /mastering-pm-interviews/
+---
+
 # Mastering PM Interviews
 
 This series of posts is for Product Managers who want to get better at interviewing for product roles. The interview process is very similar for PMs who are just starting out and applying for junior APM / PM positions vs for experienced PMs trying to secure Senior PM / Principal PM / Group PM positions. PM interviews usually consist of testing out 3 different types of abilities:

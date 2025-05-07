@@ -1,3 +1,7 @@
+---
+title: "Data to Product Transition"
+permalink: /data-to-product-transition/
+---
 # My transition from a data guy to a product guy
 
 Date: 17 January 2021

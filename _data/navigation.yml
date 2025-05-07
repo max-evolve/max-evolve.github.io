@@ -2,7 +2,7 @@ main:
   - title: "Blogs"
     url: /posts/
   - title: "Resources"
-    url: /resources/
+    url: /resource-head-page/
   - title: "About"
     url: /about/
 

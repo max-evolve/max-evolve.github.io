@@ -39,6 +39,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   - _posts
+  - _resources
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -91,17 +92,21 @@ defaults:
       layout: single
       author_profile: true
 
-  # portfolio
+  # resources
   - scope:
       path: ""
       type: resources
     values:
+      layout: single
+      related: true
       author_profile: false
         
 # collections
 collections:
   resources:
     output: true
+    
+      
 
 
 
