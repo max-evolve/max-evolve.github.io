@@ -5,6 +5,8 @@ permalink: /pm-starter-kit/
 
 ## ⭐ Getting started into product
 
+Note: This is a longer-term path that requires sustained discipline and not everyone will want to or should pursue what's listed here. This is meant to be an exhuastive set of resources and not targetted to your personal situation which you'll need to evaluate. These resources are not meant for securing a PM role but will improve certain skills which may indirectly help with the mindset. 
+
 If you are just getting acquainted with the product domain and have no idea where to begin with, start by getting answers to the following questions
 
 1. **What exactly does a Product Manager do?**
@@ -38,7 +40,7 @@ If you are just getting acquainted with the product domain and have no idea wher
 
 Shreyas Doshi in [one of his talks](https://www.youtube.com/watch?v=db8u5wURIVU&t=742s) had put across this comprehensive list of skills sets for a PM. 
 
-![](Screenshot_2021-01-06_at_3.31.56_AM.png)
+![](/assets/images/pm_skills.png)
 
 Check out this thread on the [difference between a good and a great PM](https://twitter.com/shreyas/status/1249039638829793280?lang=en) beautifully put by him too. 
 
@@ -68,7 +70,7 @@ The author is an engineering manager so it's not from a PM perspective. I am sti
 
 Go for this if you want to get acquainted with the concepts of a product development lifecycle - from hypothesis to execution to validation.
 
-![Screenshot 2023-08-22 at 11.06.53 PM.png](Screenshot_2023-08-22_at_11.06.53_PM.png)
+![Screenshot 2023-08-22 at 11.06.53 PM.png](/assets/images/pm_books.png)
 
 ### 📒 Blogs
 
@@ -77,22 +79,24 @@ Go for this if you want to get acquainted with the concepts of a product develop
 - [8 Blogs for Product Managers to Bookmark Immediately](https://www.productplan.com/blogs-for-product-managers/)
 - [SVPG Insights Blog](https://svpg.com/articles/) - Marty Cagan who wrote that first book I listed
 - [Ken Norton (ex PM, Google, Yahoo)](https://www.kennorton.com/)
-- [Jackie Bavaro | Medium](https://jackiebo.medium.com/)
-- [Gibson Biddle | Medium](https://gibsonbiddle.medium.com/)
-- Paul Graham (YC) - [Essays](http://www.paulgraham.com/articles.html)
-- Andrew Chen (ex- Growth, Uber) - [Essays on network effects, growth hacking, and tech](https://andrewchen.co/)
+- [Jackie Bavaro](https://jackiebo.medium.com/)
+- [Gibson Biddle](https://gibsonbiddle.medium.com/)
+- [Paul Graham (YC) - Essays](http://www.paulgraham.com/articles.html)
+- [Andrew Chen (ex- Growth, Uber) - Essays on network effects, growth hacking, and tech](https://andrewchen.co/)
 - [Brandon Chu (Shopify) - The Black Box of Product Management](https://blackboxofpm.com/)
 
-### 🔖 More resources
+### 🔖 More resources (but don't kill yourself - pick and chose)
 
 - [Sachin Rekhi's Top Resources for PMs](https://www.sachinrekhi.com/top-resources-for-product-managers)
 - [The Ultimate Product Management Guide](https://www.learnpmwith.me/resources/)
-- Pick and choose some more blogs from this [list](https://medium.com/product-to-product/50-product-management-blogs-you-should-be-reading-92617b70dc12)
+- [Some classic blogs](https://medium.com/product-to-product/50-product-management-blogs-you-should-be-reading-92617b70dc12). My personal favs are Silicon Valley Product Group, First Round Review and Julie Zhuo. 
+- [Books, arcticles and newsletter suggestions](https://medium.com/quitgenius-product/product-reading-list-48e9faddd987)
+
 
 ## For specific areas of product management
 
 - [Webinar: Breaking Into Product Management by Google Sr AI/ML PM, Marily Nika](https://www.youtube.com/watch?v=AWdOkdlk-3I)
-- [#ProductCon Online (SF): Hacking Your Product Career by fmr Netflix VP of Product - Gibson Biddle](https://www.youtube.com/watch?v=A37beafI5_o&feature=youtu.be)
+- [ProductCon Online (SF): Hacking Your Product Career by fmr Netflix VP of Product - Gibson Biddle](https://www.youtube.com/watch?v=A37beafI5_o&feature=youtu.be)
 - [The 10–30–50 rule of building skills as a PM](https://blog.tryexponent.com/10-30-50-product-management/)
 - [How to improve your product sense](https://blog.tryexponent.com/improve-your-product-sense/)
 - [High-agency PM](https://www.linkedin.com/pulse/high-agency-its-importance-how-cultivate-shreyas-doshi/) — what and how
@@ -118,7 +122,7 @@ Go for this if you want to get acquainted with the concepts of a product develop
     - [25 UX Case Studies To Improve Your Product Skills](https://growth.design/case-studies/)
 2. If you enjoyed UX teardowns, checkout these:
     - [UX case studies — Built for Mars](https://builtformars.com/studies/)
-    - [User Onboarding Teardowns | UserOnboard](https://www.useronboard.com/user-onboarding-teardowns/)
+    - [User Onboarding Teardowns / UserOnboard](https://www.useronboard.com/user-onboarding-teardowns/)
 3. The Design of Everyday Things by Don Norman - this is a basic book for UX
 4. Conversational Design by Erika Hall - it's about conversational design but it is also a pretty good starter for anybody learning to think about what a user's experience is actually like.
 5. Another handy web reference for any UX related fundamentals is [here](https://www.nngroup.com/articles/). This was founded by Don Norman too.
@@ -127,6 +131,4 @@ Go for this if you want to get acquainted with the concepts of a product develop
 
 I am putting together another list of references for some follow-worthy people, newsletters and podcasts. Reach out to me if you are interested. Happy reading!! 
 
-[Product Reading List](https://medium.com/quitgenius-product/product-reading-list-48e9faddd987)
 
-[https://embed.notionlytics.com/wt/ZXlKM2IzSnJjM0JoWTJWVWNtRmphMlZ5U1dRaU9pSlJkRVZLVHpFelpHVnZRbWh2U1hNMlZrbFRZaUlzSW5CaFoyVkpaQ0k2SWpObFltWTVNVEV4TUdReU1EUXlaVGc1WkdFMVltRTFOakV3TURVNVpHUmlJbjA9](https://embed.notionlytics.com/wt/ZXlKM2IzSnJjM0JoWTJWVWNtRmphMlZ5U1dRaU9pSlJkRVZLVHpFelpHVnZRbWh2U1hNMlZrbFRZaUlzSW5CaFoyVkpaQ0k2SWpObFltWTVNVEV4TUdReU1EUXlaVGc1WkdFMVltRTFOakV3TURVNVpHUmlJbjA9)

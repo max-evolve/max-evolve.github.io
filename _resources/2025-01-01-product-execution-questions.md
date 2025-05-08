@@ -193,7 +193,7 @@ Sample questions:
 
 A/B tests are one of the core tools a product manager can employ for understanding user behavior. In fact, at many large tech companies, product managers are heavily involved with experimentation as a means to validate their product decisions.
 
-[A/B Test Question Guide](A%20B%20Test%20Question%20Guide%20de425db35eec43e0b69cc2beb962ae56.md)
+[A/B Test Question Guide](/ab-test-question-guide/)
 
 ## **Common Errors while answering execution questions**
 
@@ -203,7 +203,7 @@ A/B tests are one of the core tools a product manager can employ for understandi
     
     - **Clarify the state of the product:** Is the product in a pre-launch phase? Is the PMF already established and is now in the growth phase? Has it already been scaled and is now in the maturity phase? This information will help better inform the goal for the product given the phase. Generally speaking, focus for pre-launch products would be to get user adoption while a mature product's focus would be on user retention or monetisation.
     
-    ![graph of product lifecycle.png](graph_of_product_lifecycle.png)
+    ![graph of product lifecycle.png](/assets/images/graph_of_product_lifecycle.png)
     
     - **Clarify the positioning of the product with respect to competitors:** Do you understand what the differentiator of the product is and why users use it? This will help you set better informed goals for the product. Example: A dating app like tinder might have a goal to match as many people as possible while a more serious platform like Hinge who claims that their goal is for users to find their long term partner and then delete the app (I am assuming from the tagline "designed to be deleted") would have a different goal like the count of meaningful conversations per user that they can assist.
 2. **Trying to get the correct answer**
@@ -227,18 +227,7 @@ A/B tests are one of the core tools a product manager can employ for understandi
 
 ## Relevant Readings:
 
-- Guide to solving RCA type questions
-
-[What to do when your metrics dip](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip)
-
-- Example interview for RCA
-
-[Product Interview: (Hypothetical) Figma is losing customers at 6-7% weekly. Figure out the reason &](https://medium.com/design-bootcamp/product-interview-rca-solution-design-question-figma-is-losing-customers-at-6-7-weekly-a9c1eb11a236)
-
-- **What is AARRR?** AARRR stands for Acquisition, Activation, Retention, Referral and Revenue and is pretty much the bee's knees when it comes to understanding your customers, their journey and optimizing your funnel as well as setting some valuable and actionable metric goals for your startup.
-
-[AARRR Framework- Metrics That Let Your StartUp Sound Like A Pirate Ship](https://ms-mbalke.medium.com/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b)
-
-- Tradeoff Evaluation
-
-[How do you decide between displaying Facebook's 'People You May Know' feature or an Advertisement?](https://medium.com/stellarpeers/how-do-you-decide-between-displaying-facebooks-people-you-may-know-feature-or-an-advertisement-f90aaf0ba47e#:~:text=The%20key%20to%20answering%20this,feature's%20impact%20across%20these%20segments)
+- [RCA questions](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip)
+- [Sample RCA interview](https://medium.com/design-bootcamp/product-interview-rca-solution-design-question-figma-is-losing-customers-at-6-7-weekly-a9c1eb11a236)
+- **What is [AARRR](https://ms-mbalke.medium.com/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b)?** AARRR stands for Acquisition, Activation, Retention, Referral and Revenue and is pretty much the bee's knees when it comes to understanding your customers, their journey and optimizing your funnel as well as setting some valuable and actionable metric goals for your startup.
+- Tradeoff Evaluation: [How do you decide between displaying Facebook's 'People You May Know' feature or an Advertisement?](https://medium.com/stellarpeers/how-do-you-decide-between-displaying-facebooks-people-you-may-know-feature-or-an-advertisement-f90aaf0ba47e#:~:text=The%20key%20to%20answering%20this,feature's%20impact%20across%20these%20segments)
