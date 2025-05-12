@@ -103,10 +103,9 @@ Broad framework to answer such questions:
     3. Penetration pricing: Google cloud platform
     4. Value-based pricing: Ads
 
-**Appendix:**
+**Sample Questions:**
 
-[https://www.tryexponent.com/blog/google-product-strategy-interview](https://www.tryexponent.com/blog/google-product-strategy-interview)
-
+[Google Product Strategy Interview](https://www.tryexponent.com/blog/google-product-strategy-interview)
 - How would you monetize Facebook Messenger?
 - Imagine you're a PM at a startup that works with big data from the NHL — what's the first product you would ship?
 - How would you sell live plants at Amazon?

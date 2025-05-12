@@ -13,7 +13,7 @@ permalink: /pointers-for-resume/
     - **Scale**: impacting 1.5M+ daily customers
     - **Impact**: uplifting the booking completion rates from 80% to 92%
 
-- [Critical CV writing tips](/cv-writing-tips/)
+- [Critical resume writing tips](/cv-writing-tips/)
 
 
 **Other considerations:**

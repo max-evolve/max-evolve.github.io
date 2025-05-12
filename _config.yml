@@ -26,6 +26,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
 search: false
+heading_anchors: false
 
 # Build settings
 markdown: kramdown
@@ -40,6 +41,7 @@ include:
   - _pages
   - _posts
   - _resources
+  - _books
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -98,19 +100,28 @@ defaults:
       type: resources
     values:
       layout: single
-      related: true
+      related: false
       author_profile: false
+
+  # books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      related: false
+      author_profile: false
+
         
 # collections
 collections:
   resources:
     output: true
+  books:
+    output: true
+    permalink: /books/:title/
+
     
-      
-
-
-
-.site-footer {display: none !important;}
 
 category_archive:
   type: liquid

@@ -1,6 +1,9 @@
-# The Charisma Myth: How to Engage, Influence and Motivate People
-
-Olivia Fox Cabane
+---
+title: "The Charisma Myth"
+author: "Olivia Fox Cabane"
+date: 2025-02-11
+collection: books
+---
 
 ## Charisma Demystified
 

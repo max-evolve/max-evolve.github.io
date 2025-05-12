@@ -15,7 +15,7 @@ Most estimation questions will probably ask you to estimate something you have n
 
 ## **1. Estimate via proxy**
 
-An excellent method to estimate a number is to figure out another related and known number. Instead of trying to just guess how many cars in Seattle, we can hypothesize that the number of cars is directly related to the number of families in the area. This latter quantity is definitely easier to derive a number for. The [self-driving car example in our course](https://www.tryexponent.com/course/lesson/self-driving-cars) shows this method in practice.
+An excellent method to estimate a number is to figure out another related and known number. Instead of trying to just guess how many cars in Seattle, we can hypothesize that the number of cars is directly related to the number of families in the area. This latter quantity is definitely easier to derive a number for. Eg: [Self Driving Car](/self-driving-cars-mapping/) 
 
 Once we have our related quantity, all we need to do is scale that number up or down. For example, if we assume there are 300,000 households in Seattle, it doesn't mean there are 300,000 cars in Seattle. Each household may have, on average, 2 cars. So that means there are `300,000 households * 2 cars` = **600,000 cars in Seattle**.
 
@@ -33,7 +33,6 @@ Ask clarifying questions -
 
 - What's the market? US or global?
 - What's the device for which we are estimating - mobile, desktop, etc.?
-- 
 
 I'd like to lay down the high level data points that'll be used to solve this -  
 
@@ -41,9 +40,9 @@ I'd like to lay down the high level data points that'll be used to solve this -
 
 And then each of those can be broken down further as the next step. 
 
-### **Here's a list of more estimation PM interview questions to practice. Try to test yourself without our guide.**
+### **Here's a list of more estimation PM interview questions to practice. Try to test yourself**
 
-[**How many self-driving cars does it take to map the entire continental U.S. in one year?**](How%20many%20self-driving%20cars%20does%20it%20take%20to%20map%20the%20f9e3e58bf6024eac843e947db2ef5211.md)
+* [How many self-driving cars does it take to map the entire continental U.S. in one year?](How%20many%20self-driving%20cars%20does%20it%20take%20to%20map%20the%20f9e3e58bf6024eac843e947db2ef5211.md)
 
 - Estimate the revenue of AirBnB
 - How many ping-pong balls fit in a helicopter?
@@ -84,7 +83,7 @@ Please keep in mind. This fact sheet is NOT meant to be memorized. Use this guid
 - Cost of Google Pixel 2: $650
 - Cost of Amazon Echo (2nd Gen): $85
 
-__General sense of revenue (2018) __
+**General sense of revenue (2018)**
 
 - Dropbox revenue: $1B
 - Airbnb revenue: $3B

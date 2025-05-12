@@ -1,3 +1,11 @@
+---
+title: "Good Strategy Bad Strategy"
+author: "Richard P. Rumelt"
+date: 2025-01-05
+collection: books
+---
+
+
 # Good Strategy / Bad Strategy: The difference and why it matters
 
 The key insight from this book is that we can all learn how to become good strategists. By understanding what makes a solid strategy and by finding the hidden power of a given situation, be it leveraging, maximizing your resources, or anticipating change, you too can become an effective strategist. 

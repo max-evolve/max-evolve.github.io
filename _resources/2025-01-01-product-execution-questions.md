@@ -42,7 +42,7 @@ In this question, let's try to apply the GAME framework that we had mentioned ab
 
 First, let's define the overall goal for YouTube as a organisation. There are a variety of goals we can select, and they would all be great answers. Overall, YouTube's goal is to provide entertaining and educational video content to users. YouTube also has a subscription plan, called YouTube Red, that charges users a monthly subscription fee to access premium and ad-free content. Some reasonable goals could be: user retention or engagement. In this case, let's select user engagement as the key metric - YouTube wants to see its users getting the most out of the platform.
 
-**Note**: Generally, revenue is NOT a recommended goal. Revenue is usually a byproduct of delivering an incredible and worthwhile user experience. But there could be products which are in the phase where you would want to have monetisation as the goal.  
+*Note: Generally, revenue is NOT a recommended goal. Revenue is usually a byproduct of delivering an incredible and worthwhile user experience. But there could be products which are in the phase where you would want to have monetisation as the goal.*  
 
 ### **Actions**
 
@@ -70,7 +70,7 @@ Playlist metrics, while helpful, are a currently niche feature and don't capture
 - Average video watch time per user
 - Average number of comments per user
 
-These metrics are defined as averages based on per-user metrics, to give a clear sense of user engagement. **Note:** You could define "Total video watch time for the platform" (Total # of users * Average video watch time per user) too but that will not indicate user level engagement. A high total watch time could just mean a high number of users who are engaged lowly. 
+These metrics are defined as averages based on per-user metrics, to give a clear sense of user engagement. Note: You could define "Total video watch time for the platform" (Total # of users * Average video watch time per user) too but that will not indicate user level engagement. A high total watch time could just mean a high number of users who are engaged lowly. 
 
 **Evaluate**
 
@@ -193,7 +193,7 @@ Sample questions:
 
 A/B tests are one of the core tools a product manager can employ for understanding user behavior. In fact, at many large tech companies, product managers are heavily involved with experimentation as a means to validate their product decisions.
 
-[A/B Test Question Guide](/ab-test-question-guide/)
+- For more details, refer to [A/B Test Question Guide](/ab-test-question-guide/)
 
 ## **Common Errors while answering execution questions**
 

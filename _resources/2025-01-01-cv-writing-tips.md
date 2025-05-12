@@ -1,8 +1,8 @@
 ---
-title: "CV Writing Tips"
+title: "Resume Writing Tips"
 permalink: /cv-writing-tips/
 ---
-# CV writing tips
+# Resume Writing Tips
 
 1. **Presentation and formatting is key**
     1. Choose a clear and legible font (e.g. Times New Roman, Arial, Georgia, Calibri) and stick to 1-2 pages in length

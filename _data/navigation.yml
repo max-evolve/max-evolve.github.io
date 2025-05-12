@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "Resources"
     url: /resource-head-page/
+  - title: "Readwise"
+    url: /readwise/
   - title: "About"
     url: /about/
 

@@ -21,13 +21,13 @@ This series of posts is for Product Managers who want to get better at interview
     
 
 We'll go into the details of each of these types of interviews in the following posts (take the time to go through them):  
-- [Product Execution Questions](/product-execution-questions/) 
-- [Product Sense / Design Questions ](/product-sense-design-questions/)
-- [Behavioural Questions](/behavioural-questions/)
+- [Product Execution](/product-execution-questions/) 
+- [Product Sense / Design](/product-sense-design-questions/)
+- [Behavioural](/behavioural-questions/)
 
 Often, some companies also add the following two rounds: 
-- [Product Strategy ](/product-strategy/)
-- [Estimation Questions ](/estimation-questions/)
+- [Product Strategy](/product-strategy/)
+- [Estimation](/estimation-questions/)
 
 ### **Mock interviews**
 I cannot stress the importance of mocks enough. For me, they've been the single biggest factor that improved my ability to showcase the right skills for different kind of interviews. 

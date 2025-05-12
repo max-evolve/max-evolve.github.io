@@ -79,7 +79,6 @@ A/B test questions fundamentally test your ability to use experimental data to m
 - **Impact**: How will experimental outcomes affect the product? E.g. we'll decide to make the button bigger if the CTR rate is higher with the bigger button than the smaller button.
 - **Tradeoff**: Every A/B Experiment has some sort of tradeoff. What are some potential pitfalls to launching your proposed experiment that might not be evident via a purely data-based analysis? E.g. perhaps making the button bigger drives higher CTR on the button in question, but decreases CTR on other important buttons on the page.
 
-The optimal structure for an A/B PM question can be found [in our A/B question guide](https://www.tryexponent.com/course/lesson/ab-testing). Take a look if you need a refresher.
 
 ### **Brainstorm**
 

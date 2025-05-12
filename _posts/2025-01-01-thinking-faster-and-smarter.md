@@ -1,1 +1,0 @@
-# Thinking Faster and Smarter

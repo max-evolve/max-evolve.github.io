@@ -1,3 +1,12 @@
+---
+title: "Understanding Michael Porter"
+author: "Joan Magretta"
+date: 2024-09-15
+collection: books
+---
+
+
+
 # Understanding Michael Porter
 
 Porter took a different path, creating what he calls "frameworks." In his own words, "My frameworks provide a set of logical relationships that are really fundamental. They're like physics—if you're going to have higher profitability, you've got to have a higher price or a lower cost. That industry competition is driven by the five forces. That the firm is a collection of activities. These frameworks provide basic, fundamental, and I believe unchangeable relationships about the 'matter' of competition."

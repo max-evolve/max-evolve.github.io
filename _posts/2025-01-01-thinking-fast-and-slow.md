@@ -1,1 +1,0 @@
-# Thinking Fast and Slow

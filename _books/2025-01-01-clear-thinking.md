@@ -1,6 +1,8 @@
 ---
 title: "Clear Thinking"
-permalink: /clear-thinking/
+author: "Shane Parish"
+date: 2025-01-15
+collection: books
 ---
 
 Shane Parrish

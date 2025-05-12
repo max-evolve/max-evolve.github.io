@@ -58,24 +58,13 @@ Go to the App Store and **download the top five apps from each category**. Then,
 
 Make a habit of doing this, and you'll feel more comfortable articulating your product decisions during a product sense interview.
 
-**Links** - 
-
-[https://www.youtube.com/watch?v=RUEgoRBo12g](https://www.youtube.com/watch?v=RUEgoRBo12g)
-
-UX Teardowns: [https://www.useronboard.com/](https://www.useronboard.com/)
-
-[https://www.deconstructoroffun.com/](https://www.deconstructoroffun.com/)
-
-[https://future.a16z.com/product-thinking/](https://future.a16z.com/product-thinking/)
-
-[https://productmanagers.substack.com/p/how-to-10x-your-product-intuition](https://productmanagers.substack.com/p/how-to-10x-your-product-intuition)
-
-[https://youtu.be/4f6QY2FtICg](https://youtu.be/4f6QY2FtICg)
-
-[https://productexercise.com/the-30-day-product-exercise-challenge-b52d0fde1645](https://productexercise.com/the-30-day-product-exercise-challenge-b52d0fde1645)
-
-[https://productmanagers.substack.com/p/how-to-10x-your-product-intuition?ref=blog.tryexponent.com](https://productmanagers.substack.com/p/how-to-10x-your-product-intuition?ref=blog.tryexponent.com)
-
-End outcome: 
-
-[https://medium.com/@RyanJosephHill/why-spotify-is-one-of-my-favorite-products-93fa4dff850a](https://medium.com/@RyanJosephHill/why-spotify-is-one-of-my-favorite-products-93fa4dff850a)
+**Links** 
+- 🧠 [UX Teardowns – UserOnboard](https://www.useronboard.com/)
+- 📺 [YouTube: Growth Loops, Retention & Virality](https://www.youtube.com/watch?v=RUEgoRBo12g)
+- 🎮 [Game Design & Monetization](https://www.deconstructoroffun.com/)
+- 📚 [Product Thinking – a16z Future](https://future.a16z.com/product-thinking/)
+- 🚀 [How to 10x Your Product Intuition – Product Managers Substack](https://productmanagers.substack.com/p/how-to-10x-your-product-intuition)
+- 🎥 [YouTube: How Superhuman Built an Engine of Growth](https://youtu.be/4f6QY2FtICg)
+- 🏋️ [The 30-Day Product Exercise Challenge](https://productexercise.com/the-30-day-product-exercise-challenge-b52d0fde1645)
+- 🔁 [How to 10x Your Product Intuition (Exponent)](https://productmanagers.substack.com/p/how-to-10x-your-product-intuition?ref=blog.tryexponent.com)
+- 📝 [Why Spotify Is One of My Favorite Products](https://medium.com/@RyanJosephHill/why-spotify-is-one-of-my-favorite-products-93fa4dff850a)

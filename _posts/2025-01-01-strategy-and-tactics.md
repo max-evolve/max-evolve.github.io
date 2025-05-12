@@ -17,8 +17,7 @@ On the other hand, a tactic is a concrete step that an organization takes to ach
 Let’s use the analogy of climbing a mountain to understand the difference.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*MrQsTgmL8OuGdoyXG5Adbg.png)
-
-                        ***Strategy is akin to defining the side of the mountain one should climb***
+> Strategy is akin to defining the side of the mountain one should climb
 
 Imagine your goal is to climb a mountain, then your strategy would be — What side of the mountain will you climb —let’s call it “The Chosen Side (TCS).”
 
