@@ -15,9 +15,10 @@ permalink: /cv-writing-tips/
     2. Recruiters typically read CVs quickly, so it's important your details are clear and at the top of your CV.
 4. Address a gap in employment history
     1. Many of us will have had a gap in our employment history, eg. a career break, personal travel, charity work, personal development etc, and it should be included in your CV
-    2. Whilst you don't need to go into specifics, it's important to explain why there is a gap.
+    2. Whilst you don't need to go into specifics, it's important to explain why there is a gap.  
+    <br>
 
-# **How to structure your CV**
+## **How to structure your CV**
 
 1. Start with your name and contact information, including your email address and best daytime telephone number as minimum. You do not have to include your full address, but can if you wish.
 2. Include a two-three line personal statement or summary, giving a concise overview of your experience and career goals. This brief overview will provide recruiters with a high level understanding of your experience and what type of roles would be of interest. Try to personalise this summary to specific job applications.
@@ -31,21 +32,22 @@ permalink: /cv-writing-tips/
     5. Spearheaded an innovation program for the Ministry of Defence, facilitating 4 design thinking projects resulting in up to 40% cost savings in annual operating cost in areas of mobile ambulance and triage operations.
 6. If you're further along in your professional career and have lots of experience, stick to your most recent and relevant work experience. You can note your full work history, but you don't need lengthy bullet points or details for things you did 10+ years ago. Prioritise the points you're trying to get across to your target employer, including transferable skills, responsibilities, and achievements for the role in question.
 7. Include your education history including where and what you studied. Grades or GPA are not imperative, but you're welcome to include them if you'd like.
-8. You can also list additional skills/experiences or professional training(s) you think are relevant at the end. If your role requires industry-specific qualifications (such as an accounting or finance qualification) add them here or in your personal statement.
+8. You can also list additional skills/experiences or professional training(s) you think are relevant at the end. If your role requires industry-specific qualifications (such as an accounting or finance qualification) add them here or in your personal statement.  
+<br>
 
-# Things to avoid
+## Things to avoid
 
-**Typos and grammatical errors**
+**Typos and grammatical errors**  
 As attention to detail will be desired for most roles, double/triple check your CV for any typos or formatting inconsistencies.
 
-**Lying on your CV**
+**Lying on your CV**  
 Lies on your CV might be revealed throughout the interview process or reference checks and might lead employers to automatically remove you from a process. It's best to be honest.
 
-**Not including metrics**
+**Not including metrics**  
 Metrics are an easy, clear way for people to see what you've accomplished.
 
-Long paragraphs or texts
+**Long paragraphs or texts**  
 Recruiters spend an average of 7 seconds reviewing CVs and don't have time to read long paragraphs. Succinct bullet points are better to avoid your points being lost.
 
-**A CV that's too lengthy**
+**A CV that's too lengthy**  
 For more tenured professionals or those with more work or academic history, we understand you might want a longer CV, but two pages is a common recommendation for most professionals. Include the main points and you can elaborate on details should you receive an interview.

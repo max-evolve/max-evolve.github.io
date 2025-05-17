@@ -49,8 +49,5 @@ permalink: /behavioural-questions/
 
 ### Relevant Reads:
 
-[Best Techniques for Handling Behavioral Interviewing](https://www.thebalancecareers.com/behavioral-interview-techniques-and-strategies-2059621)
-
-Questions inline with Amazon Leadership principles:  
-
-[Amazon Leadership principles](https://docs.google.com/document/d/122zaW-14yKnR37CSWD2ZKQ86KohrLCxMAfFqXqpeffU/edit?usp=sharing)
+- [Best Techniques for Handling Behavioral Interviewing](https://www.thebalancecareers.com/behavioral-interview-techniques-and-strategies-2059621)
+- Questions inline with Amazon Leadership principles: [Amazon Leadership principles](https://docs.google.com/document/d/122zaW-14yKnR37CSWD2ZKQ86KohrLCxMAfFqXqpeffU/edit?usp=sharing)

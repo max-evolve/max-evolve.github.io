@@ -7,5 +7,7 @@ main:
     url: /readwise/
   - title: "About"
     url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
 
   

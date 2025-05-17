@@ -6,3 +6,17 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials 
+
+
+.header-link {
+    display: none;
+  }
+
+  .page__footer {
+    display: none !important;
+  }
+
+/* Hide page title */
+.page__title, .archive__item-title {
+  display: none;
+}
