@@ -33,7 +33,7 @@ permalink: /pointers-for-resume/
 
 **🔗 Relevant links:**
 
- [Stand Out in Growth/Product with Your CV – Leah Tharin](https://www.leahtharin.com/p/stand-out-in-growthproduct-with-your)
+- [Stand Out in Growth/Product with Your CV – Leah Tharin](https://www.leahtharin.com/p/stand-out-in-growthproduct-with-your)
 - [Nail Your Product Manager Resume – TeamCandor](https://medium.com/teamcandor/nail-your-product-manager-resume-ff7484835c81)
 - [17 Steps to a Better LinkedIn Profile – LinkedIn Business](https://business.linkedin.com/en-uk/marketing-solutions/blog/posts/content-marketing/2017/17-steps-to-a-better-LinkedIn-profile-in-2017)
 - [Product Manager Resume Examples – BeamJobs](https://www.beamjobs.com/resumes/product-manager-resume-examples)

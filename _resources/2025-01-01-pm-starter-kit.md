@@ -1,6 +1,8 @@
 ---
 title:  "PM starter Kit"
 permalink: /pm-starter-kit/
+toc: true
+toc_label: "Contents"
 ---
 
 ## ⭐ Getting started into product
@@ -129,6 +131,5 @@ Go for this if you want to get acquainted with the concepts of a product develop
 6. Thinking Fast & Slow - Daniel Kaehman has a lot of UX design best practices rest on insights from this book. This is a lot to get through, so treat it as a reference book. Some really eye-opening research in there.
 7. Other notable books are Don't Make Me Think, Hooked, Emotional Design, Just Enough Research etc.
 
-I am putting together another list of references for some follow-worthy people, newsletters and podcasts. Reach out to me if you are interested. Happy reading!! 
 
 

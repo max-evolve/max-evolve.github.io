@@ -80,8 +80,7 @@ defaults:
       layout: single
       related: false
       author_profile: false
-      toc: true
-      toc_label: "Contents"
+      
       
 
   # books

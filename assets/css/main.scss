@@ -20,3 +20,10 @@
 .page__title, .archive__item-title {
   display: none;
 }
+
+
+.author__avatar img {
+  max-width: 130px;  /* Change this value to your desired size */
+  width: 130px;      /* Set both width and max-width for consistency */
+  height: 120px;     /* Keep it square if your image is square */
+}

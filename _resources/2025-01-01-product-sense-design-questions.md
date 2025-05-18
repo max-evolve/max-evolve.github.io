@@ -3,6 +3,7 @@ title: "Product Sense / Design Questions"
 permalink: /product-sense-design-questions/
 ---
 
+# Product Sense / Design
 
 ### A guide on how to answer Product Questions
 
