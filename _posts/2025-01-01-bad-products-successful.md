@@ -4,8 +4,6 @@ permalink: /bad-products-successful/
 ---
 # Can bad products be successful?
 
-Date: 22 November, 2021
-
 Let's begin by defining what a successful product is. **Successful products** solve a **problem fully** for users and deliver a delightful user experience. The experience is so good that a user would even happily pay for getting their problem solved. 
 
 On the other hand, a **bad and successful product** solves a **problem but only partially** **or** **inefficiently** and doesn't deliver a delightful experience. As a user, one doesn't feel like coming back but would still need to come back since there is nothing better out there in the market to solve their problem. Or there might be some other products which are just marginally better from the existing solution and the friction to adopt them is just too high for users to switch. 
@@ -27,3 +25,5 @@ It might be the case that a product is no longer a great experience for some par
 
 1. **The product evolved** in a way that focussed on one specific segment. Example: Adobe photoshop over-optimized for power users and is now a professional segment targeted product which meant PMF was lost for the amateur segment. So, it's a poor product for the amateur segment where now Figma and Canva play.
 2. **The user segment has evolved and has different needs now** which can't be met with the existing product Example: for Facebook, users who join in their 20s might want to connect with >100s of friends but as users grow older, they might prefer a close network of ~20 friends. Also, lots of features that address very specific needs of a niche user segment have gotten added to FB over time which may make the app feel clunky to the remaining population (FB fundraisers, FB blood donation, FB jobs are features which are not so mainstream). Hence, it might be seen as a relatively poorer product for users who were used to the neat and light experience, however it still continues to run strongly for newer users. This would also reflect in their retention cohorts.
+
+Date: 22 November, 2021

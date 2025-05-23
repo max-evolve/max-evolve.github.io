@@ -47,7 +47,7 @@ While zero-sum competition is rightly depicted as a race to the bottom, positive
 
 FIGURE 2-1 Industry structure: The five forces
 
-![Screenshot 2024-11-03 at 10.31.37 PM.png](Screenshot_2024-11-03_at_10.31.37_PM.png)
+![Screenshot 2024-11-03 at 10.31.37 PM.png](/assets/images/Screenshot_2024-11-03_at_10.31.37_PM.png)
 
 ---
 
@@ -98,7 +98,7 @@ Other factors may be important, but they are not structural. Consider four that 
 
 How the 5 forces affect profitability
 
-![Screenshot 2024-11-03 at 10.34.04 PM.png](Screenshot_2024-11-03_at_10.34.04_PM.png)
+![Screenshot 2024-11-03 at 10.34.04 PM.png](/assets/images/Screenshot_2024-11-03_at_10.34.04_PM.png)
 
 ---
 
