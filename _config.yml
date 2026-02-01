@@ -8,7 +8,8 @@ github_username: username
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+# remote_theme: mmistakes/minimal-mistakes  # Commented out to avoid SSL issues - using gem theme instead
 minimal_mistakes_skin: dirt
 search: false
 

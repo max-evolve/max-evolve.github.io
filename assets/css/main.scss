@@ -5,25 +5,6 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials 
+@import "minimal-mistakes"; // main partials
 
-
-.header-link {
-    display: none;
-  }
-
-  .page__footer {
-    display: none !important;
-  }
-
-/* Hide page title */
-.page__title, .archive__item-title {
-  display: none;
-}
-
-
-.author__avatar img {
-  max-width: 130px;  /* Change this value to your desired size */
-  width: 130px;      /* Set both width and max-width for consistency */
-  height: 110px;     /* Keep it square if your image is square */
-}
+/* Keep theme defaults; add only minimal overrides below if needed */
