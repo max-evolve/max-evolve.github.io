@@ -3,8 +3,6 @@ title: "Product Strategy"
 permalink: /product-strategy/
 ---
 
-# Product Strategy
-
 Product Strategy questions can be categorised into 3 main buckets:
 
 - Define a company strategy

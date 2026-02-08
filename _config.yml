@@ -58,6 +58,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
+      show_date: true
       comments: false
       share: false
       related: true
@@ -81,6 +82,7 @@ defaults:
       layout: single
       related: false
       author_profile: false
+      show_date: true
       
       
 

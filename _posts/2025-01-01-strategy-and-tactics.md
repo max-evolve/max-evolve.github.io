@@ -1,6 +1,8 @@
-# Strategy and Tactics
-
-Date: 13 July, 2021
+---
+title: "Strategy and Tactics"
+permalink: /strategy-and-tactics/
+date: 2021-07-13
+---
 
 Strategy and tactics are often confused with each other. To help you differentiate between the two, I’ll use a simple analogy that you can easily remember and doesn’t rely on technical jargon.
 

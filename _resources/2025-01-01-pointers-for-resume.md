@@ -2,7 +2,6 @@
 title: "Pointers for Resume"
 permalink: /pointers-for-resume/
 ---
-# Pointers for resume
 
 - On average recruiters spend 10 seconds to skim through your resume. It should be 1 page with 1 line objective
 - Simple and clear points. No more than 3-4 bullet points per role

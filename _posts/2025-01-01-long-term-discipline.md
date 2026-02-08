@@ -1,11 +1,8 @@
 ---
-title: "Long Term Discipline"
+title: "Long Term Discipline Over Short-Term Intensity"
 permalink: /long-term-discipline/
+date: 2022-09-14
 ---
-
-# Long term discipline over short-term intensity
-
-Date: 14 September 2022
 
 → **Take full responsible for everything in your life** 
 

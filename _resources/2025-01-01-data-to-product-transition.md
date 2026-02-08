@@ -1,10 +1,9 @@
 ---
 title: "Data to Product Transition"
 permalink: /data-to-product-transition/
+date: 2021-01-17
 ---
 # My transition from a data guy to a product guy
-
-Date: 17 January 2021
 
 I worked at a consulting firm for about 3 years, helping clients formulate operational / business strategy by churning insights looking at their data. In short, presenting some cool visuals and insights on a fancy deck revolving around - sales teams restructuring and sizing, models for incentive compensation and so on. You get the gist. Even though India was an offshore office, I got numerous opportunities to be directly involved in discussions with the clients. However, one thing that I consistently missed in such consulting engagements was the visibility on the impact. Did the client even make use of those recommendations or did the deck just get lost in the pile with the others? Did they derive an actual business value from this? If not, where did our assumptions go wrong?
 

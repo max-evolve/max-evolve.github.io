@@ -16,7 +16,7 @@ This space is where I reflect, write, and share ideas that don't fit into a deck
 #### You'll find
 - 🚀 [**Starter Kit for PMs**](/resource-head-page/) – curated for aspiring product folks
 - 📚 [**Readwise**](/readwise/) – notes from things I've read
-- ✍️ [**Blogs**](/posts/) – a bit of random thoughts
+- ✍️ [**Thoughtfolio**](/posts/) – a bit of random thoughts
 </div>
 
 ## Product Demo

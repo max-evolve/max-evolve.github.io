@@ -24,6 +24,7 @@ Interviewing for PM roles is a skill in itself. Master the frameworks, stories, 
 
 ## Miscellaneous
 
+* [Product portfolio](/product-portfolio/)
 * 🚀 [Template for levelling up](/template-for-levelling-up/)
 * 🧪 [Hone your product thinking](/hone-product-thinking/)
 * 📊 [Metric measurement - AARRR framework](/metric-measurement-aarrr-framework/)

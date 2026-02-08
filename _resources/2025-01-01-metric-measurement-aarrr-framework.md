@@ -1,9 +1,7 @@
 ---
-title: "Metric Measurement AARRR Framework"
+title: "Metric Measurement - AARRR Framework"
 permalink: /metric-measurement-aarrr-framework/
 ---
-
-# Metric measurement - AARRR framework
 
 ![](Screenshot_2021-07-20_at_1.45.16_PM.png)
 

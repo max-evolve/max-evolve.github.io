@@ -1,6 +1,9 @@
-# Transforming user experiences through ML/AI
-
-Created: August 14, 2023 4:26 AM
+---
+title: "Transforming user experiences through ML/AI"
+permalink: /transforming-user-experiences-ml-ai/
+date: 2023-08-14
+show_date: true
+---
 
 ![Screenshot 2023-08-14 at 4.38.35 AM.png](Screenshot_2023-08-14_at_4.38.35_AM.png)
 

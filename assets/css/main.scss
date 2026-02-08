@@ -7,4 +7,16 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Keep theme defaults; add only minimal overrides below if needed */
+/* Minimal overrides */
+.page__footer {
+  display: none !important;
+}
+
+.header-link {
+  display: none;
+}
+
+/* Add breathing room at bottom of pages */
+.page__inner-wrap {
+  padding-bottom: 3rem;
+}
