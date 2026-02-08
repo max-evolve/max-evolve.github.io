@@ -5,7 +5,9 @@ date: 2025-01-05
 collection: books
 ---
 
-The key insight from this book is that we can all learn how to become good strategists. By understanding what makes a solid strategy and by finding the hidden power of a given situation, be it leveraging, maximizing your resources, or anticipating change, you too can become an effective strategist. 
+The key insight from this book is that we can all learn how to become good strategists. By understanding what makes a solid strategy and by finding the hidden power of a given situation, be it leveraging, maximizing your resources, or anticipating change, you too can become an effective strategist.
+
+---
 
 ### **Chapter 1 of 9**
 
@@ -33,6 +35,8 @@ While many believed that they should adapt to this fragmentation, CEO Lou Gerstn
 
 When they acquired Volvo, Jaguar, Land Rover, and Aston Martin, their new guiding policy was to exploit these brands and simultaneously take advantage of economies of scale. This led them to consolidate the design and manufacturing processes between the brands. However, this approach lacked coherence since the value of these brands lay in their unique qualities. Volvo buyers don't want a safer version of a Jaguar just as a Jaguar buyer doesn't want a sportier version of a Volvo, and Ford's strategy suffered for it.
 
+---
+
 ### **Chapter 3 of 9**
 
 ## **A good strategy demands that you make a choice to move in one specific direction.**
@@ -45,7 +49,9 @@ They were torn between focusing on building ready-to-use systems, customer solut
 
 For example, Intel found itself having to make hard choices after many Japanese companies in the manufacturing market made it tough for them to compete. Their CEO, Andy Grove, was forced to make a decision and shift the company's focus to manufacturing microprocessors. This move met opposition from many areas of the business, including the salespeople and researchers who were attached to the old habits and processes. While it might have been less stressful to back down in the face of opposition, Grove instead persevered with this new direction.
 
-And a good thing, too. By 1992, Intel was the world's largest manufacturer of semiconductors. 
+And a good thing, too. By 1992, Intel was the world's largest manufacturer of semiconductors.
+
+---
 
 ### **Chapter 4 of 9**
 
@@ -59,6 +65,8 @@ Their insights had shown them that the dwindling supply of fossil fuels would ev
 
 To accomplish this, they created a strategy around this point. The average 7-Eleven store can stock only 50 varieties of soft drinks, only a fraction of over 200 brands available in Japan. So the firm created a system to maximize soda variety on their shelves by researching and recording local tastes. Each store would then sell a range of brands that appealed to these local tastes, thereby allowing 7-Eleven to shift an enormous variety of drinks. By identifying and focusing on the pivot point, 7-Eleven gained leverage over rivals whose stores lacked what the Japanese market wanted.
 
+---
+
 ### **Chapter 5 of 9**
 
 ## **Find the right balance of resources and actions to fit your specific situation.**
@@ -70,6 +78,8 @@ One classic example of a pristine strategy can be found in ancient history with 
 The Romans then charged after the retreating soldiers and thus into the gap Hannibal's army had left. As more Romans poured forward, they became crammed into a smaller and smaller space until they couldn't properly swing their weapons. The sides of the arc then circled behind the Romans and the slaughter began. Over 50,000 Romans died that day, compared to Hannibal's 5,000 or so losses. So what can we take away from this gruesome story? Hannibal carefully considered every single action in his strategy so that each one naturally followed the last.
 
 Thus, his strategy won him a decisive victory in spite of the odds against him. The best strategies, such as Hannibal's, recognize the trade-off between resources, possible actions, and the optimization of both. Like Hannibal, you should strive to ensure that your strategy utilizes your limited resources with the most efficient way possible.
+
+---
 
 ### **Chapter 6 of 9**
 
@@ -83,6 +93,8 @@ In the past, these studios had a captive audience, but that audience disappeared
 
 This made it difficult for newer companies to challenge the Goliaths of the industry, such as Ilford in the UK and Ansco in the United States. However, a few smaller companies, such as Kodak and Fuji, did challenge these giants' market share by developing color film, where the opportunities were far more plentiful. By further developing this new technology and making it more effective, these companies instigated a new kind of film production. By further developing this new technology and making it more effective, these companies instigated a new kind of film production.
 
+---
+
 ### **Chapter 7 of 9**
 
 ## **A good strategy maximizes your competitive advantage by limiting your rivals' opportunities and maximizing your resources.**
@@ -95,6 +107,8 @@ Another way to achieve competitive advantage is by creating a higher demand for 
 
 They then started selling their pomegranate juice as a fresh fruit drink, emphasizing its many health benefits. And because they were now the largest producer of pomegranates, they were able to reap all the rewards of the high demand that they had created, without having to share with other manufacturers or competitors. Now that you've learned how to successfully implement your strategies, the following blinks will reveal how to become a great strategist.
 
+---
+
 ### **Chapter 8 of 9**
 
 ## **Approach strategy like a science: form a strategic hypothesis to test and then refine your ideas.**
@@ -106,6 +120,8 @@ But how can you become an effective strategist? You must first start making stra
 That company was Starbucks. Like Schultz, you too should test your hypothesis to gather new information and form new hypotheses based on those results. Schultz started by copying the Italian original, but he soon noticed that Americans preferred lounging in chairs to standing at the bar, so he introduced chairs and tables. He then discovered that many American customers wanted their coffee to go, so he introduced paper cups. What can we learn from his success? He tested his hypothesis, which was creating the Italian espresso experience, but needed to modify it for American preferences in order for them to truly embrace it.
 
 His company then purchased Starbucks retail and trademark in 1987 and by 2001 brought in $2.6 billion in revenue. Indeed, strategy is much like a science. We must come up with a possible explanation or working hypothesis and constantly refine it.
+
+---
 
 ### **Chapter 9 of 9**
 

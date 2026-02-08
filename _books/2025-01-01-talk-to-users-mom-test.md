@@ -20,7 +20,7 @@ collection: books
     
 2. Tell me about the last time that you encountered this problem?
     
-    Specifics of the context in which they are. Use this to even think about product 
+    Specifics of the context in which they are. Use this to think about product features and positioning 
     
 3. Why was this hard?
     
@@ -31,7 +31,7 @@ collection: books
     Indicates that this is a real problem that they are investing time solving it 
     
 5. [Tactical] What don't you love about the solutions that you've already tried?
-- Beginning of your feature set.
+- This is the beginning of your feature set.
 
 
 

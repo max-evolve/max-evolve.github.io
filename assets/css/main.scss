@@ -12,6 +12,16 @@
   display: none !important;
 }
 
+/* Larger profile avatar in sidebar */
+.author__avatar img {
+  max-width: 180px;
+}
+
+/* More space between profile sidebar and main content */
+.sidebar .author__content {
+  padding-right: 2em;
+}
+
 .header-link {
   display: none;
 }
