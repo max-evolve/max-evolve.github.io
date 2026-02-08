@@ -30,3 +30,13 @@
 .page__inner-wrap {
   padding-bottom: 3rem;
 }
+
+/* Blue links in Resources, Readwise, and About sections */
+.page__content a {
+  color: #0077b6 !important;
+  text-decoration: underline;
+}
+
+.page__content a:hover {
+  color: #005a8d !important;
+}
