@@ -3,8 +3,6 @@ title: "Product Sense / Design Questions"
 permalink: /product-sense-design-questions/
 ---
 
-# Product Sense / Design
-
 ### A guide on how to answer Product Questions
 
 Product questions are the heart and soul of PM interviews. They're the most unique to the product management role, and, in my opinion, the most fun. In general, product sense of design questions test your:

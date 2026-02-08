@@ -178,26 +178,24 @@ To practice your endurance in uncomfortable situations, find a quiet, comfortabl
 
 **Warmth**
 
-Close your eyes and relax. Employ your senses as you focus on a moment in your life when you felt triumphant:
-
-• Hear the sounds in the room: the murmurs of approval, the swell of applause.
+• Close your eyes and relax. Employ your senses as you focus on a moment in your life when you felt triumphant.• Hear the sounds in the room: the murmurs of approval, the swell of applause.
 • See people's smiles and expressions of warmth and admiration.
 • Feel your feet on the ground and the congratulatory handshakes.
 • Above all, experience your feelings, the warm glow of confidence rising within you.
 
-Gratitude
+**Gratitude**
 
 For quick gratitude access, find three things you can approve of right now. Scan your body and your environment for little, tangible things you could be grateful for.
 
-Compassion
+**Compassion**
 
 Follow the three steps below to practice compassion for someone: Imagine their past. What was it like growing up in their family and experiencing their childhood?Imagine their present. Put yourself in their place. See through their eyes. Imagine what they might be feeling right now.Imagine delivering their eulogy.
 
-Self-Compassion
+**Self-Compassion****
 
-Keep a self-compassion list. Jot down five ways that you already care for yourself when you're having a hard time. If you're on a roll, go for ten. Star those
+Keep a self-compassion list. Jot down five ways that you already care for yourself when you're having a hard time. If you're on a roll, go for ten. Star those that work best for you.
 
-Metta (kindness/goodwill)
+**Metta (kindness/goodwill)**
 
 The visualization below will guide you through Metta step by step. 
 

@@ -1,10 +1,7 @@
 ---
-title: "Hone Product Thinking"
+title: "Hone Your Product Thinking"
 permalink: /hone-product-thinking/
 ---
-
-
-# Hone your product thinking
 
 The best PMs I know are early adopters of the latest products. They try dozens of apps, tear them down, and develop an eye for what makes an app tick. It's the repeated process of learning, feedback, and iteration that both improves the product and the builder's sense of what makes for an improved product. This is one of the most sought after skill. Deconstruct products that you use on a daily basis. 
 

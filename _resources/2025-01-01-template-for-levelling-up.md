@@ -2,7 +2,6 @@
 title: "Template for Levelling Up"
 permalink: /template-for-levelling-up/
 ---
-# Template for levelling up
 
 - This doc is helpful to align expectations with your manager on what behaviors have been / still need to be showcased inorder for you to level up. You could use this process to evaluate if a promotion might be around the corner and track one's personal progress in an ongoing way too.
 - The most important aspect is to ensure that your manager fills up "Is this behaviour showcased?" her/himself. You could take the approach of filling it for her/him and getting a nod but ensure that you get a complete buy-in.

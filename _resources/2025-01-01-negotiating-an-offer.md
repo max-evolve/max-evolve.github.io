@@ -1,4 +1,7 @@
-# Negotiating an offer
+---
+title: "Negotiating an Offer"
+permalink: /negotiating-an-offer/
+---
 
 **Links:**
 

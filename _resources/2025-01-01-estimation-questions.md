@@ -3,8 +3,6 @@ title: "Estimation Questions"
 permalink: /estimation-questions/
 ---
 
-# Estimation Questions
-
 ### **A few strategies and tricks for estimation questions**
 
 Estimation questions, like many other PM interview questions, are tough because they are so open-ended. There are so many paths you can go down that it's often difficult to get started. Additionally, it can be hard to explain your process or do quick whiteboard math. In this lesson, we'll see some strategies to counteract all those problems.

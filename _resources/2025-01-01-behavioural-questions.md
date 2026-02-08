@@ -3,8 +3,6 @@ title: "Behavioural Questions"
 permalink: /behavioural-questions/
 ---
 
-# Behavioural Questions
-
 ### Always follow the **NSAR framework** to answer behavioural questions:
 
 - **Nugget**: Summary of your story in 2 lines

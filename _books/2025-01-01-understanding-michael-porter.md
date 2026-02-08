@@ -5,11 +5,9 @@ date: 2024-09-15
 collection: books
 ---
 
+Porter took a different path, creating what he calls "frameworks." In his own words:
 
-
-# Understanding Michael Porter
-
-Porter took a different path, creating what he calls "frameworks." In his own words, "My frameworks provide a set of logical relationships that are really fundamental. They're like physics—if you're going to have higher profitability, you've got to have a higher price or a lower cost. That industry competition is driven by the five forces. That the firm is a collection of activities. These frameworks provide basic, fundamental, and I believe unchangeable relationships about the 'matter' of competition."
+> "My frameworks provide a set of logical relationships that are really fundamental. They're like physics—if you're going to have higher profitability, you've got to have a higher price or a lower cost. That industry competition is driven by the five forces. That the firm is a collection of activities. These frameworks provide basic, fundamental, and I believe unchangeable relationships about the 'matter' of competition."
 
 ---
 
@@ -127,7 +125,7 @@ Can you position your company where the forces are weakest? Consider the strateg
 
 ---
 
-Between 1993 and 2007, the industry average return on invested capital (ROIC) was 10.5 percent. Yet over the same period Paccar, a company with about 20 percent of the North American heavy-truck market, earned 31.6 percent. Paccar has developed a positioning within this difficult industry where the forces are the weakest. Its target customer is the individual owner-operator, the guy whose truck is his home away from home. This customer will pay more for the status conferred by Paccar’s Kenworth and Peterbilt brands and for the ability to add a slew of custom features such as a luxurious sleeper cabin or plush leather seats. Paccar’s made-to-order products come with a number of accompanying services geared to make the owner-operator more successful. For example, Paccar’s roadside assistance program limits downtime, a key to the owner’s economics. In an industry marked by price competition, Paccar is able to charge a 10 percent price premium. Paccar doesn’t try to compete by being the “best” truck maker in the industry. If it did, it would go after the same customers with the same products. It would get caught up in the industry’s price competition, intensifying rivalry, which, in[…]
+Between 1993 and 2007, the industry average return on invested capital (ROIC) was 10.5 percent. Yet over the same period Paccar, a company with about 20 percent of the North American heavy-truck market, earned 31.6 percent. Paccar has developed a positioning within this difficult industry where the forces are the weakest. Its target customer is the individual owner-operator, the guy whose truck is his home away from home. This customer will pay more for the status conferred by Paccar’s Kenworth and Peterbilt brands and for the ability to add a slew of custom features such as a luxurious sleeper cabin or plush leather seats. Paccar’s made-to-order products come with a number of accompanying services geared to make the owner-operator more successful. For example, Paccar’s roadside assistance program limits downtime, a key to the owner’s economics. In an industry marked by price competition, Paccar is able to charge a 10 percent price premium. Paccar doesn’t try to compete by being the “best” truck maker in the industry. If it did, it would go after the same customers with the same products. It would get caught up in the industry’s price competition, intensifying rivalry, which would erode its advantage.
 
 ---
 
@@ -155,7 +153,7 @@ Dell Inc.’s low relative costs up through the early 2000s came from both sourc
 
 ---
 
-The second component of superior profitability is relative cost—that is, you manage somehow to produce at lower cost than your rivals. To do so, you have to find more efficient ways to create, produce, deliver, sell, and support your product or service. Your cost advantage might come from lower operating costs or from using capital more efficiently (including working capital), or both
+The second component of superior profitability is relative cost—that is, you manage somehow to produce at lower cost than your rivals. To do so, you have to find more efficient ways to create, produce, deliver, sell, and support your product or service. Your cost advantage might come from lower operating costs or from using capital more efficiently (including working capital), or both.
 
 ---
 
@@ -243,7 +241,7 @@ Despite five decades of dramatic change in the merchandise it sells, modificatio
 
 ---
 
-surgery. From its very humble origins in 1976, starting with three doctors and eleven beds, there have been vast changes in both Aravind’s scale and scope, but it continues to serve the enduring need for affordable eye care.
+Aravind Eye Care makes cataract surgery affordable. From its very humble origins in 1976, starting with three doctors and eleven beds, there have been vast changes in both Aravind’s scale and scope, but it continues to serve the enduring need for affordable eye care.
 
 ---
 
@@ -275,15 +273,11 @@ The standard argument has been that companies should focus on their core activit
 
 ---
 
-common mistake in strategy is to choose the same core competences as everyone else in your industry.
+A common mistake in strategy is to choose the same core competences as everyone else in your industry.
 
 ---
 
-Fit means that the value or cost of one activity is affected by the way other activities are performed
-
----
-
-definition: fit means that the value or cost of one activity is affected by the way other activities are performed.
+Fit means that the value or cost of one activity is affected by the way other activities are performed.
 
 ---
 
@@ -319,7 +313,7 @@ Choices in the value proposition that limit what a company will do are essential
 
 ---
 
-Tailoring is possible only if there are limits, only if you are not trying to be all things to all people. In other words, limits make it possible to develop a value chain that is different from
+Tailoring is possible only if there are limits, only if you are not trying to be all things to all people. In other words, limits make it possible to develop a value chain that is different from rivals.
 
 ---
 
@@ -347,18 +341,18 @@ And price isn’t the whole story. Southwest was also more convenient. First, it
 
 ---
 
-and have low switching costs. Rivals, dealing with high fixed costs, compete on price to fill seats. New entrants are a constant threat, because entry barriers are lower than you might think. You can start an airline with a couple of leased planes. Substitutes keep prices down. Customers can choose other forms of transportation, especially on shorter trips. Southwest’s low relative costs provided shelter from the industry’s self-destructive price competition. Moreover, its value proposition gave it a truly unique positioning vis-à-vis that last force, substitution. Its low fares made flying an attractive alternative for price-sensitive travelers accustomed to driving or taking a bus. In the early years, a shareholder asked CEO Herb Kelleher if Southwest couldn’t raise its prices by just a few dollars since its $15 price on the Dallas–San Antonio route was so much lower than Braniff’s $62 fare. Kelleher said no, our real competition is ground transportation, not other airlines. Consider Southwest’s first expansion beyond its original three cities, Dallas, Houston, and San Antonio. It chose Harlingen, Texas, a town in the Rio Grande Valley probably few people have ever heard of. The year before Southwest launched its service, 123,000 passengers[…]
+Customers are powerful because they are price sensitive and have low switching costs. Rivals, dealing with high fixed costs, compete on price to fill seats. New entrants are a constant threat, because entry barriers are lower than you might think. You can start an airline with a couple of leased planes. Substitutes keep prices down. Customers can choose other forms of transportation, especially on shorter trips. Southwest’s low relative costs provided shelter from the industry’s self-destructive price competition. Moreover, its value proposition gave it a truly unique positioning vis-à-vis that last force, substitution. Its low fares made flying an attractive alternative for price-sensitive travelers accustomed to driving or taking a bus. In the early years, a shareholder asked CEO Herb Kelleher if Southwest couldn’t raise its prices by just a few dollars since its $15 price on the Dallas–San Antonio route was so much lower than Braniff’s $62 fare. Kelleher said no, our real competition is ground transportation, not other airlines. Consider Southwest’s first expansion beyond its original three cities, Dallas, Houston, and San Antonio. It chose Harlingen, Texas, a town in the Rio Grande Valley probably few people have ever heard of. The year before Southwest launched its service, 123,000 passengers used the route the year before Southwest launched service.
 
 ---
 
-Southwest Airlines, the most successful—and the most emulated—airline in the world, has thrived by meeting “just enough” of its customers’ needs at dramatically lower prices. From its humble beginnings flying only to three cities in Texas in 1971, Southwest has grown to be one of the world’s leading airlines, both in size and in profitability. It has done so with a value proposition that for three decades was radically different from other airlines. Southwest didn’t promise to get you anywhere you wanted to go, as other airlines did. Nor did it offer the basic amenities that were once standard industry fare: meals, assigned seats, baggage transfers. Full-service airlines (perhaps a term that no longer accurately describes the legacy carriers, with their higher costs and prices) overserved the needs of a large number of travelers flying Southwest’s shorter point-to-point routes. Southwest’s value proposition put it in a unique position vis-à-vis the five forces. As most know, the airline industry is brutally inhospitable. Suppliers, especially the labor unions but also plane makers, are powerful. Customers are powerful because they are price sensitive
+Southwest Airlines, the most successful—and the most emulated—airline in the world, has thrived by meeting “just enough” of its customers’ needs at dramatically lower prices. From its humble beginnings flying only to three cities in Texas in 1971, Southwest has grown to be one of the world’s leading airlines, both in size and in profitability. It has done so with a value proposition that for three decades was radically different from other airlines. Southwest didn’t promise to get you anywhere you wanted to go, as other airlines did. Nor did it offer the basic amenities that were once standard industry fare: meals, assigned seats, baggage transfers. Full-service airlines (perhaps a term that no longer accurately describes the legacy carriers, with their higher costs and prices) overserved the needs of a large number of travelers flying Southwest’s shorter point-to-point routes. Southwest’s value proposition put it in a unique position vis-à-vis the five forces. As most know, the airline industry is brutally inhospitable. Suppliers, especially the labor unions but also plane makers, are powerful. Customers are powerful because they are price sensitive and have low switching costs.
 
 ---
 
-vacation. Enterprise recognized that a sizeable minority of rentals, roughly 40 to 45 percent, occur in the renter’s home city. If your car is stolen, for example, or damaged in an accident, you’ll need a rental. In such cases, your insurance company might cover the cost, usually with contractual limits on the price it will pay. About a third of Enterprise’s revenues come from insurers. Other occasions prompt home-city rentals as well—for example, when a car has a mechanical failure or when a child is home from school on vacation. In all of these uses, home-city car renters tend to be more price sensitive than business or vacation travelers. Enterprise crafted a unique value proposition to meet these needs: reasonably priced, convenient, home-city rentals. Compared with Hertz and Avis, Enterprise has chosen to serve a different need at a different relative price. It is not that Enterprise is the best car rental company. Nor is the market it serves inherently better. But starting with the specific need it serves, Enterprise has made a different choice about the value proposition triangle. Enterprise’s customer base would confound traditional market segmentation by demographic characteristics. 
+Hertz and its followers in the industry built their business around business and vacation travelers. Enterprise recognized that a sizeable minority of rentals, roughly 40 to 45 percent, occur in the renter’s home city. If your car is stolen, for example, or damaged in an accident, you’ll need a rental. In such cases, your insurance company might cover the cost, usually with contractual limits on the price it will pay. About a third of Enterprise’s revenues come from insurers. Other occasions prompt home-city rentals as well—for example, when a car has a mechanical failure or when a child is home from school on vacation. In all of these uses, home-city car renters tend to be more price sensitive than business or vacation travelers. Enterprise crafted a unique value proposition to meet these needs: reasonably priced, convenient, home-city rentals. Compared with Hertz and Avis, Enterprise has chosen to serve a different need at a different relative price. It is not that Enterprise is the best car rental company. Nor is the market it serves inherently better. But starting with the specific need it serves, Enterprise has made a different choice about the value proposition triangle. Enterprise’s customer base would confound traditional market segmentation by demographic characteristics. 
 
 ---
 
-Enterprise Rent-A-Car is the market leader in car rental services in North America, where it is bigger than the once-dominant players, Hertz and Avis. Enterprise has also been dramatically more profitable. It is the only major company in the industry that has enjoyed sustained superior profitability, because for decades it pursued a distinctive strategy. The Enterprise value proposition is based on a simple insight: renting a car meets different needs at different times. Hertz and its followers in the industry built their business around travelers.
+Enterprise Rent-A-Car is the market leader in car rental services in North America, where it is bigger than the once-dominant players, Hertz and Avis. Enterprise has also been dramatically more profitable. It is the only major company in the industry that has enjoyed sustained superior profitability, because for decades it pursued a distinctive strategy. The Enterprise value proposition is based on a simple insight: renting a car meets different needs at different times. Hertz and its followers in the industry built their business around business and vacation travelers.
 
 ---

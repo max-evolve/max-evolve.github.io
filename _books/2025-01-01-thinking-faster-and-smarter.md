@@ -63,7 +63,7 @@ collection: books
 - Answer questions clearly and directly—avoid unnecessary preamble. Clarity boosts credibility.
 
 
-## My notes
+## Raw notes
 
 Some people are naturally more extroverted, uninhibited, quick-witted, or facile with words than others. But any deficits we might have in these areas need not define us nor determine our destiny. What most shapes how we communicate on the fly isn’t something innate or deeply established in us but rather how we approach this challenging task.
 
@@ -82,7 +82,7 @@ Slowing down isn’t only about making more time. It’s also about what we do w
 We can also avoid holding conversations when we’re distracted, rescheduling them for times when we know we can really focus.
 
 
-Paraphrasing isn’t parroting back what the other person said (for example, “What I hear you saying is . . .”). Rather, it’s distilling the essence of what we heard them communicate. Doing so can serve a number of purposes depending on the context: It can ensure that we understood someone’s meaning correctly. It can allow us to
+Paraphrasing isn’t parroting back what the other person said (for example, “What I hear you saying is . . .”). Rather, it’s distilling the essence of what we heard them communicate. Doing so can serve a number of purposes depending on the context: It can ensure that we understood someone’s meaning correctly. It can allow us to confirm understanding and build connection.
 
 
 Look consciously for opportunities to convey emotions that you might be feeling in the course of interacting with others. Challenge yourself during your next three substantive conversations to interject at least once or twice, expressing emotions you’re feeling.
@@ -94,34 +94,37 @@ say something like, “You know, what you’re saying brings an interesting feel
 We can communicate fairly well in impromptu situations if we take the lessons of previous chapters to heart, learning to control our anxiety, restraining our drive toward perfectionism, and seeing spontaneous moments as opportunities rather than threats. But we can’t truly connect with others unless we pay attention to them as well as to ourselves, creating an ongoing dialogue in our minds between what we’re picking up from others and what our own, internal voices are saying we should do in response. We can’t create, experience, and project that kind of pitch-perfect communication Williams spawned that day unless we’re listening, in the fullest sense of the word. That means adding more pace, space, and grace to our spontaneous communication.
 
 
-Sue Stanley, senior instructional designer at Toastmasters International, agrees. “Structure is an important tenet of any successful speech,” she says, “whether it’s impromptu or not. You have to be able to get a beginning, a middle, and an end. You have to know where you’re going to start and where you’re going to end.”2
+Sue Stanley, senior instructional designer at Toastmasters International, agrees:
 
+> "Structure is an important tenet of any successful speech," she says, "whether it's impromptu or not. You have to be able to get a beginning, a middle, and an end. You have to know where you're going to start and where you're going to end."
+
+---
+
+---
 
 The next time you watch television commercials, pay attention to the flow of ideas. Chances are, you’ll see Problem–Solution–Benefit in action.
 
+---
 
 Take a few minutes to think about your favorite book or popular song and how it flows. Can you identify the underlying structure? Bonus points: listen to a TED Talk or two and see if you can identify the road map the speaker is using.
 
 
-••• TRY IT •••
+> **Try it:** Just as a tour guide must connect where we've been to where we're going next—otherwise tour members would get lost. They would wander off, either because they felt curious about something they saw and wanted to linger with it, they couldn’t grasp the relevance of what they were seeing and their attention drifted, or they worried about what was coming next and thus couldn’t focus as well. Something similar holds with impromptu speaking. Without clear bridges between ideas, we’ll lose our audiences and they’ll go to their phone, their friends, or to sleep.
 
 
-been to where we were going next, tour members would get lost. They would wander off, either because they felt curious about something they saw and wanted to linger with it, they couldn’t grasp the relevance of what they were seeing and their attention drifted, or they worried about what was coming next and thus couldn’t focus as well. Something similar holds with impromptu speaking. Without clear bridges between ideas, we’ll lose our audiences and they’ll go to their phone, their friends, or to sleep.
+The Problem–Solution–Benefit structure, for instance, invites a transition like, “Now that we have a firm understanding of the problem at hand, allow me to share how we can solve it through a simple investment”; or “Once we invest in and build out this solution, we will be able to reduce costs and save time."
 
 
-The Problem–Solution–Benefit structure, for instance, invites a transition like, “Now that we have a firm understanding of the problem at hand, allow me to share how we can solve it through a simple investment”; or “Once we invest in and build out this solution, we will be able to reduce costs and save time
-
-
-Note that we don’t always have to be perfectly explicit about our overarching structure when beginning impromptu remarks. We can take a subtler approach and still reap the benefits of structure
+Note that we don’t always have to be perfectly explicit about our overarching structure when beginning impromptu remarks. We can take a subtler approach and still reap the benefits of structure.
 
 
 In general, it’s a good idea to give your audience some kind of road map at the outset of a speech of any length, spontaneous or not. Thinking about what you want to communicate in the context of a story structure can be a useful way to organize your thoughts, even when speaking on the spot.
 
 
-By structuring our communication as a logical sequence with a beginning, middle, and end, we prime our messages to be noticed and remembered, both by ourselves and our audiences
+By structuring our communication as a logical sequence with a beginning, middle, and end, we prime our messages to be noticed and remembered, both by ourselves and our audiences.
 
 
-Stories enable us to connect with audiences not only on the level of abstract reason or logic but also emotion, which in turn might well help us remember information better
+Stories enable us to connect with audiences not only on the level of abstract reason or logic but also emotion, which in turn might well help us remember information better.
 
 
 Emotion can rev up the circuits in the brain devoted to paying attention. So if I’m an effective storyteller, I’m figuring out how to arouse your attention circuits, your memory circuits, and part of that could be through the emotional component.”10 Unlike a mere list, storytelling can even potentially transform our audiences through the emotional connections it forges—changing their minds, soothing or invigorating their souls, inspiring them to take action.11
@@ -136,7 +139,7 @@ I spend that fifteen seconds choosing a structure and then very cursorily applyi
 As longtime improvisation instructor James Whittington notes, we can also make impromptu decisions to swap in new ideas, anecdotes, jokes, and so forth as they occur to us at various parts of our structured response, again without worrying that we’ll somehow scuttle our larger response.
 
 
-What–So What–Now What works wonders when giving a spontaneous presentation, answering a question in a job interview, giving a piece of feedback—you name it. If you go back and review this chapter, you’ll find that I used What–So What–Now What as my organizing schema
+What–So What–Now What works wonders when giving a spontaneous presentation, answering a question in a job interview, giving a piece of feedback—you name it. If you go back and review this chapter, you’ll find that I used What–So What–Now What as my organizing schema.
 
 
 Make reflection a regular part of your day—first thing in the morning, perhaps, during your commute home, or before you go to bed at night. Identify one or two communication situations you experienced that day or the previous day, and analyze how you handled them. With whom did you converse most easily? What made it so effortless and fluid? Which structure did you use and why was that so appropriate? Did you encounter situations in which you wish you had structured your thoughts more clearly? Which structure did you use—and which other structures might have worked better? Were you unsure at times of the other person’s message or goal? How might they have used structure more effectively?
@@ -145,7 +148,7 @@ Make reflection a regular part of your day—first thing in the morning, perhaps
 At the end of the week, review your journal entries to look for patterns. You might notice, for instance, that you’re better spontaneously structuring your communication at certain times of day, when you’re with certain colleagues, or in certain settings. Think about why that might be, and what adjustments you might make to create more of the optimal circumstances for your next important conversation.
 
 
-practice techniques for overcoming anxiety and develop a toolbox of tactics for calming down in the moment. They practice skills such as listening and introspection. And as I’ve suggested in this chapter, they develop a small but potent catalog of structures that they can call upon in specific situations to respond in ways that are clear, directed, engaging, and “sticky.”
+Great spontaneous communicators practice techniques for overcoming anxiety and develop a toolbox of tactics for calming down in the moment. They practice skills such as listening and introspection. And as I’ve suggested in this chapter, they develop a small but potent catalog of structures that they can call upon in specific situations to respond in ways that are clear, directed, engaging, and “sticky.”
 
 
 Spontaneous communication in daily life might be unscripted, but like political debates, they aren’t random. We can often anticipate how we’ll feel, what various contexts and speaking situations will demand of us, what kind of content our audiences might want to hear, and how we might most compellingly present it to them. By familiarizing ourselves with structures and practicing their application, we put ourselves in a position to shine when it really counts, just as we do by taking the other preemptive steps described in this book. We might even find ourselves doing something wonderful we never quite expected: having fun while speaking in the moment.
@@ -166,9 +169,9 @@ What do you want them to do?
 
 Think back to the last time you spoke spontaneously. What did you want people to know, feel, and do? Were the messages you delivered aligned with these goals?
 
+---
 
-••• TRY IT •••
-A famous improvisation game called “sell a blank to a blank” asks participants to sell a random product and service to a randomly selected type of person. The product might be a plunger or a piano, and the job type or person might be a police officer, circus clown, or kindergarten teacher. The person playing this game would spend a minute or two trying to sell a plunger to a police officer, for instance, or a piano to a circus clown. This game helps us to practice imagining other people and tailoring our communication to their needs. Try picking three products or services of your own. For each one, pick a type of person to sell to. How might you best frame your pitch?
+> **Try it:** A famous improvisation game called “sell a blank to a blank” asks participants to sell a random product and service to a randomly selected type of person. The product might be a plunger or a piano, and the job type or person might be a police officer, circus clown, or kindergarten teacher. The person playing this game would spend a minute or two trying to sell a plunger to a police officer, for instance, or a piano to a circus clown. This game helps us to practice imagining other people and tailoring our communication to their needs. Try picking three products or services of your own. For each one, pick a type of person to sell to. How might you best frame your pitch?
 
 
 When we’re trying to argue for an idea, we rattle off arguments that are important and impactful to us. Particularly when discussing a topic that we feel emotionally about, we may skip the step of asking what will make the same topic important, impactful, and emotionally resonant for our audience. Ditto when we’re trying to sell a product or service: we list the features and functions rather than explaining how what we’re selling solves an important problem or challenge as customers define it.
@@ -177,8 +180,7 @@ When we’re trying to argue for an idea, we rattle off arguments that are impor
 To make your spontaneous communication more relevant, make a habit of thinking about your audiences and their needs. You can do this in the moment. If someone puts you on the spot with a question, pause for just a second and ask yourself, “Who is this person? What do they need to hear? How can I frame what I’m about to say so that it’s most relevant/interesting/urgent for them?”
 
 
-••• TRY IT •••
-In your next spontaneous encounter, try creating a moment of curiosity for your audience that might make the topic seem more relevant and urgent. If someone poses a question for you to answer on the spot, create just a bit of uncertainty by first defining a potential impact or challenge that the answer you’ll give will address, and only then delivering the answer itself. If someone hasn’t asked a question but you find yourself in the position of communicating an idea, evoke curiosity by first posing and answering a question of your own. For example, when you spontaneously need to share information about a new product, you could ask, “Do we really want to support two products in the market?”
+> **Try it:** In your next spontaneous encounter, try creating a moment of curiosity for your audience that might make the topic seem more relevant and urgent. If someone poses a question for you to answer on the spot, create just a bit of uncertainty by first defining a potential impact or challenge that the answer you’ll give will address, and only then delivering the answer itself. If someone hasn’t asked a question but you find yourself in the position of communicating an idea, evoke curiosity by first posing and answering a question of your own. For example, when you spontaneously need to share information about a new product, you could ask, “Do we really want to support two products in the market?”
 
 
 Consider the following questions:
@@ -202,7 +204,7 @@ The example above demonstrates how thinking about relevance requires that we als
 Address the “Why should I care” question in the course of communicating and you’ll find that audiences really will care more about what you say—and they’ll pay attention to your focused message.
 
 
-In auto racing, the grand marshal waves a white flag to designate the race’s final lap. We can do something similar when we engage in small talk by making a graceful exit which leaves our conversation partner feeling listened to and appreciated
+In auto racing, the grand marshal waves a white flag to designate the race’s final lap. We can do something similar when we engage in small talk by making a graceful exit which leaves our conversation partner feeling listened to and appreciated.
 
 
 Further, people tend to find conversations most satisfying when they entail a relatively balanced, two-way exchange of information. Don’t treat small talk as a stand-in for your weekly therapy session, but don’t put all of the emphasis on the other person, either, and remain a closed book to them or make them feel like they’re being interrogated. People want to learn about you and know that you are listening empathetically to them.
@@ -216,6 +218,7 @@ One way to accomplish this task is by starting off a comment of ours by paraphra
 
 With a bit of work, we can not only handle ourselves well but also begin to spread happiness, connection, and collegiality wherever we go, inspiring others to open themselves up to people around them and to learn from them. The positive benefits of small talk can be significant indeed, but only if we break from our established habits and develop a more helpful—and structured—way of engaging. So don’t struggle through another social occasion. Get out there and start practicing!
 
+---
 
 Step #1: Answer the Question
 As clearly and concisely as possible, provide a direct answer to the question that is asked of you. No need to provide a preamble or detailed background. Get to your answer directly. Delay tactics or straying from the point might undercut your response’s transparency and authenticity, thus diminishing your credibility.

@@ -5,25 +5,28 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials 
+@import "minimal-mistakes"; // main partials
 
+/* Minimal overrides */
+.page__footer {
+  display: none !important;
+}
+
+/* Larger profile avatar in sidebar */
+.author__avatar img {
+  max-width: 180px;
+}
+
+/* More space between profile sidebar and main content */
+.sidebar .author__content {
+  padding-right: 2em;
+}
 
 .header-link {
-    display: none;
-  }
-
-  .page__footer {
-    display: none !important;
-  }
-
-/* Hide page title */
-.page__title, .archive__item-title {
   display: none;
 }
 
-
-.author__avatar img {
-  max-width: 130px;  /* Change this value to your desired size */
-  width: 130px;      /* Set both width and max-width for consistency */
-  height: 110px;     /* Keep it square if your image is square */
+/* Add breathing room at bottom of pages */
+.page__inner-wrap {
+  padding-bottom: 3rem;
 }

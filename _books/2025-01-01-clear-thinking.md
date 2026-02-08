@@ -5,8 +5,6 @@ date: 2025-01-15
 collection: books
 ---
 
-Shane Parrish
-
 ## **Creating Intentional Environments and Taking Responsibility**
 
 - Joining groups whose default behaviors are your desired behavior is an effective way to create an intentional environment. If you want to read more, join a book club. If you want to run more, join a running club. If you want to exercise more, hire a trainer.
@@ -44,6 +42,8 @@ Shane Parrish
 
 ## **Self-Talk and Problem Definition**
 
+---
+
 - The most powerful story in the world is the one you tell yourself. That inner voice has the power to move you forward or anchor you to the past. Choose wisely.
 - People go fast in operational environments. Probing and asking deeper questions slows down the process just enough to dramatically improve your chances of solving the right problem.
 - Writing out the problem makes the invisible visible. If you find yourself using jargon in your description, it's a sign that you don't fully understand the problem.
@@ -51,7 +51,9 @@ Shane Parrish
 ## **Anticipate Failure and Avoid Binary Thinking**
 
 - Binary thinking is when you consider only two options to a problem. The best decision-makers know this is limiting, and see binary thinking as a sign that we don't fully understand a problem.
-- The best decision-makers anticipate and make contingency plans. "Failure comes from a failure to imagine failure."
+- The best decision-makers anticipate and make contingency plans.
+
+> "Failure comes from a failure to imagine failure."
 - Inside us all, there is a competition between our today self and our future self. Our future self sees the benefits or consequences of the accumulation of our seemingly insignificant choices.
 - Problem-solving novices try to reduce a decision to just two options because it creates the false sense that they've gotten to the problem's essence. Masters see the simplicity hiding in the complexity.
 - Binary framing is as comfortable as it is passive. Even if we don't choose the third option, forcing ourselves to develop it helps us understand the problem better.
