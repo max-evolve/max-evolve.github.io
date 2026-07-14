@@ -1,8 +1,8 @@
 ---
-
-## title: "Long Term Discipline Over Short-Term Intensity"
+title: "Long Term Discipline Over Short-Term Intensity"
 permalink: /long-term-discipline/
 date: 2022-09-14
+---
 
 There are a handful of ideas I've come back to over the years. None of them are particularly novel, but they've quietly shaped how I approach work and life.
 
