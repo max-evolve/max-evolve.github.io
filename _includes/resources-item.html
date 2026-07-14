@@ -1,0 +1,7 @@
+{% include section-index-row.html title=include.item.title url=include.item.url depth=include.depth %}
+{% if include.item.children %}
+  {% for child in include.item.children %}
+    {% capture child_depth %}{{ include.depth | default: 0 | plus: 1 }}{% endcapture %}
+    {% include resources-item.html item=child depth=child_depth %}
+  {% endfor %}
+{% endif %}

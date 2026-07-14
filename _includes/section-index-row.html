@@ -1,0 +1,16 @@
+{% assign row_title = include.title | default: post.title | markdownify | remove: "<p>" | remove: "</p>" | strip %}
+{% assign row_url = include.url | default: post.url %}
+{% assign row_meta = include.meta %}
+{% assign depth = include.depth | default: 0 | plus: 0 %}
+<div class="section-index-row{% if depth == 1 %} section-index-row--nested{% elsif depth >= 2 %} section-index-row--deep{% endif %}">
+  <h3 class="section-index-row__title">
+    <a href="{{ row_url | relative_url }}" rel="permalink">{{ row_title }}</a>
+  </h3>
+  {% if row_meta %}
+    {% if include.meta_datetime %}
+      <time class="section-index-row__meta" datetime="{{ include.meta_datetime | date_to_xmlschema }}">{{ row_meta }}</time>
+    {% else %}
+      <span class="section-index-row__meta">{{ row_meta }}</span>
+    {% endif %}
+  {% endif %}
+</div>

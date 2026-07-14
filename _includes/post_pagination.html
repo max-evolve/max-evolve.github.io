@@ -1,0 +1,19 @@
+{% assign locale = include.locale | default: site.locale %}
+{% if page.previous or page.next %}
+  <nav class="post-adjacent" aria-label="Post navigation">
+    {% if page.previous %}
+      {% assign prev_title = page.previous.title | markdownify | strip_html | strip %}
+      <div class="post-adjacent__item post-adjacent__item--prev">
+        <p class="post-adjacent__label">{{ site.data.ui-text[locale].pagination_previous | default: "Previous" }}</p>
+        <a href="{{ page.previous.url | relative_url }}" class="post-adjacent__link" rel="prev">{{ prev_title }}</a>
+      </div>
+    {% endif %}
+    {% if page.next %}
+      {% assign next_title = page.next.title | markdownify | strip_html | strip %}
+      <div class="post-adjacent__item post-adjacent__item--next">
+        <p class="post-adjacent__label">Read Next</p>
+        <a href="{{ page.next.url | relative_url }}" class="post-adjacent__link" rel="next">{{ next_title }}</a>
+      </div>
+    {% endif %}
+  </nav>
+{% endif %}

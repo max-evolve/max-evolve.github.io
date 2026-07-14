@@ -1,7 +1,7 @@
 ---
 title:  "PM starter Kit"
 permalink: /pm-starter-kit/
-toc: true
+toc: false
 toc_label: "Contents"
 ---
 

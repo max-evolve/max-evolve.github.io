@@ -1,0 +1,19 @@
+---
+layout: archive
+---
+
+<div class="section-index-list resources-index">
+  {% for section in site.data.resources.sections %}
+    <section class="resources-section">
+      <h2 class="section-index-group__label">{{ section.title }}</h2>
+      {% if section.intro %}
+        <p class="resources-section__intro">{{ section.intro }}</p>
+      {% endif %}
+      <div class="section-index-group__items">
+        {% for item in section.items %}
+          {% include resources-item.html item=item depth=0 %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>

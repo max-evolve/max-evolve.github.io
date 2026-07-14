@@ -4,15 +4,17 @@ title: "About"
 author_profile: true
 ---
 
-I build products, but I didn’t arrive here through a neat or obvious path. I found my way into product through a few messy iterations, learning by doing, and slowly figuring out what kind of problems I enjoy working on.
+I like building things that make people’s lives a little simpler whether that’s products, systems, or occasionally just better ways of thinking.
 
-I’m drawn to clarity, good judgment, and tools that fit naturally into how people already think and work. Writing helps me slow my thoughts down and stress test my thinking. This space is where I reflect, explore ideas, and share things I’m still forming opinions on.
+My path into product wasn’t linear. I started as a consultant, then a data scientist building models, before realizing I was far more interested in the messy questions around what to build and why people use it. Since then I’ve built products across consumer marketplaces, enterprise software, and more recently AI.
 
-Outside of work, I like staying active, traveling when I can, and going deep on topics that catch my curiosity, from how people make decisions to how systems evolve over time. I’m always learning, usually in public.
+I write because it’s the fastest way I know to sharpen an idea. Most posts in [Thoughtfolio](/posts/) begin as half-formed thoughts, conversations, or questions I can’t stop thinking about. That’s where I try to make sense of them.
+
+Outside work you’ll probably find me training for something, trying a new restaurant, planning my next trip, or disappearing down an internet rabbit hole about AI, psychology, economics, or whatever has captured my curiosity that week.
 
 <div class="notice" markdown="1">
-#### You'll find
-- ✍️ [**Thoughtfolio**](/posts/) – some random thoughts
+#### On this site
+- ✍️ [**Thoughtfolio**](/posts/) – essays and ideas I'm working through
 - 🚀 [**Starter Kit for PMs**](/resource-head-page/) – curated for aspiring product folks
 - 📚 [**Readwise**](/readwise/) – notes from things I've read
 

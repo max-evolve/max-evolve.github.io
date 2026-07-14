@@ -1,0 +1,12 @@
+---
+layout: archive
+---
+
+<div class="section-index-list">
+  <div class="section-index-group__items">
+    {% assign sorted_books = site.books | sort: 'date' | reverse %}
+    {% for book in sorted_books %}
+      {% include section-index-row.html title=book.title url=book.url meta=book.author %}
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,46 @@
+sections:
+  - title: Breaking Into Product
+    intro: Trying to make the switch? These links are for you — my story and everything to help you get that foot in the door.
+    items:
+      - title: "✨ My transition from a data guy to a product guy"
+        url: /data-to-product-transition/
+      - title: "🚀 PM Starter Kit"
+        url: /pm-starter-kit/
+
+  - title: Product Manager Interviews
+    intro: Interviewing for PM roles is a skill in itself. Master the frameworks, stories, and structure needed to stand out across all interview types.
+    items:
+      - title: "📝 Pointers for resume"
+        url: /pointers-for-resume/
+        children:
+          - title: Critical resume writing tips
+            url: /cv-writing-tips/
+      - title: "🏢 Mastering PM Interviews"
+        url: /mastering-pm-interviews/
+        children:
+          - title: "📋 Product Execution"
+            url: /product-execution-questions/
+            children:
+              - title: "📊 A/B question guide"
+                url: /ab-test-question-guide/
+          - title: "🎨 Product Sense / Design"
+            url: /product-sense-design-questions/
+          - title: "👥 Behavioural"
+            url: /behavioural-questions/
+          - title: "✨ Product Strategy"
+            url: /product-strategy/
+          - title: "📊 Estimation - rarely asked now"
+            url: /estimation-questions/
+          - title: "🗣️ Communication tips"
+            url: /tips-communication-interviews/
+
+  - title: Miscellaneous
+    items:
+      - title: Product portfolio
+        url: /product-portfolio/
+      - title: "🚀 Template for levelling up"
+        url: /template-for-levelling-up/
+      - title: "🧪 Hone your product thinking"
+        url: /hone-product-thinking/
+      - title: "📊 Metric measurement - AARRR framework"
+        url: /metric-measurement-aarrr-framework/
